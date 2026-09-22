@@ -1,0 +1,11 @@
+{
+  "name": "steam-discord-bot",
+  "version": "1.0.0",
+  "description": "Tracks Wardogs profit text via Steam and sends it to Discord",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "steam-user": "^5.0.0"
+  }
+}
